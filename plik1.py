@@ -8,4 +8,4 @@ while n > 0:
     sum += liczba
     n //= 10
 
-print("Suma: ", sum)
+print("Suma liczb: ", sum)
