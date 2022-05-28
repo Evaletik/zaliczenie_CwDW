@@ -8,3 +8,4 @@ def przeciwprostokatna(a, b):
     return c
 wynik = przeciwprostokatna(a,b)
 print(wynik)
+print("Good")
